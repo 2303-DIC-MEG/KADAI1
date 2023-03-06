@@ -164,7 +164,8 @@ html {
     border-radius: 5px;
     display: block;
     font-size: 3rem;
-    transform: translateX( -50%);
+    float: center;
+    
 
 }
 
